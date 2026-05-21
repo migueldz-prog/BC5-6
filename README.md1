@@ -1,0 +1,8 @@
+BC5-6 - BorderPane
+
+Coloco botones en las 5 zonas del layout BorderPane, como una brujula añadiendo el centro
+
+Creo los cinco botones y los muestro en una scena con un boton en cada zona 
+(Norte, Sur, Este, Oeste, Centro). Ningun boton tiene acción asignada.
+
+Usando setTop(), setBottom(), setLeft(), setRight(), setCenter().
